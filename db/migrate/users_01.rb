@@ -1,1 +1,1 @@
-Class Users < ActiveRecord::Migration
+Class Users < ActiveRecord::Migration[5.1]
