@@ -1,0 +1,1 @@
+Class Users < ActiveRecord::Migration
